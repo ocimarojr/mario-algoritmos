@@ -22,6 +22,16 @@ O projeto nasceu da necessidade de superar o desafio "Mario" do curso CS50 e evo
 | `05_piramide_dupla.c` | Solução do desafio **Mario More** (CS50) com gap central. |
 | `06_losango_complexo.c` | **Algoritmo Avançado:** Um diamante completo desenhado com 4 loops e inversão lógica. |
 
+---
+<div align="center">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![CS50](https://img.shields.io/badge/CS50-Harvard-A51C30?style=for-the-badge)
+
+**Desenvolvido por Ocimar Jr** 🚀
+
+</div>
+
 ## 🛠️ Como Compilar e Rodar
 Este projeto utiliza **C Padrão (Standard C)** e não requer bibliotecas externas (como a `cs50.h`).
 
