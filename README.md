@@ -1,8 +1,6 @@
 # 🍄 Mario Algoritmos - Estudo de Lógica em C
 
-```
 ![Resultado Final do Losango](screenshot_mario.png)
-```
 
 Este repositório documenta minha jornada de aprofundamento em **Lógica de Programação** e **Algoritmos** utilizando a linguagem C.
 O projeto nasceu da necessidade de superar o desafio "Mario" do curso CS50 e evoluiu para a criação de formas geométricas complexas "do zero" (from scratch).
